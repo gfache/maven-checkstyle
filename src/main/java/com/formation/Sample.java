@@ -8,6 +8,7 @@ package com.formation;
 */
 
 public abstract class Sample {
+ /** @inheritdoc */
  public Boolean shouldBeWarning() {
   return true;
  }
