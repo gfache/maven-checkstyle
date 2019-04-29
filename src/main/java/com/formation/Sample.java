@@ -9,10 +9,10 @@ package com.formation;
 
 public abstract class Sample {
  /** {@inheritDoc} */
- private Boolean toto=0;
+ private Boolean toto=true;
  
  public Boolean shouldBeWarning() {
-  toto=1;
+  toto=false;
   return toto;
  }
 }
