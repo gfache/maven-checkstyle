@@ -8,4 +8,4 @@
 * @author Guillaume Fache
 * @version 1.0
 */
-package com.domain;
+package com.formation;
