@@ -7,13 +7,8 @@ package com.formation;
 * @author Guillaume Fache
 */
 
-public abstract class Sample{
+public abstract class Sample {
 	/** {@inheritDoc} */
-	private Boolean toto = true;
-
-	/** {@inheritDoc} */
-	public Boolean shouldBeWarning(){
-		toto = false;
-		return toto;
+	public void shouldBeWarning() {
 	}
 }
