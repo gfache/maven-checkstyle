@@ -9,7 +9,7 @@ package com.formation;
 
 public abstract class Sample {
  /** {@inheritDoc} */
- private Boolean shouldBeWarning() {
+ public abstract Boolean shouldBeWarning() {
   return true;
  }
 }
