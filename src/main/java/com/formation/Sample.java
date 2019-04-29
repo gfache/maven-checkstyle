@@ -7,9 +7,9 @@ package com.formation;
 * @author Guillaume Fache
 */
 
-public class Sample {
+public abstract class Sample {
 	public Boolean shouldBeWarning() {
-		return null;
+		return true;
 	}
 
 }
