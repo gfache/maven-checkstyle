@@ -7,7 +7,7 @@ package com.formation;
 * @author Guillaume Fache
 */
 
-public void class Sample {
+public static class Sample {
  /** {@inheritDoc} */
  public Boolean shouldBeWarning() {
   return false;
