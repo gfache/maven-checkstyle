@@ -8,7 +8,7 @@ package com.formation;
 */
 
 public abstract class Sample {
-	/** {@inheritDoc} */
-	public void shouldBeWarning() {
-	}
+ /** {@inheritDoc} */
+ public void shouldBeWarning() {
+ }
 }
